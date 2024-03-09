@@ -1,4 +1,4 @@
-from code.code.Two_Sum1 import Solution
+from code.code._1_Two_Sum import Solution
 from unittest import TestCase, main
 
 

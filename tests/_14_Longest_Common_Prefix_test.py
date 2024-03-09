@@ -1,4 +1,4 @@
-from code.code.Longest_Common_Prefix14 import Solution
+from code.code._14_Longest_Common_Prefix import Solution
 from unittest import TestCase, main
 
 

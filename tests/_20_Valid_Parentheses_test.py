@@ -1,4 +1,4 @@
-from code.code.Valid_Parentheses20 import Solution
+from code.code._20_Valid_Parentheses import Solution
 from unittest import TestCase, main
 
 

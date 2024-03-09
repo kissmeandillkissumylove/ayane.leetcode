@@ -1,4 +1,4 @@
-from code.code.Palindrome_Number9 import Solution
+from code.code._9_Palindrome_Number import Solution
 from unittest import TestCase, main
 
 
